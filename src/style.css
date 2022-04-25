@@ -3,3 +3,15 @@ body {
   width: 640px; 
   padding: 50px;
 }
+
+@media (max-width: 576px) {
+    body{
+        width: 100%;
+    }
+    .img-fluid{
+        display: block;
+        text-align: center;
+        width: 50%;
+    }
+    
+}
