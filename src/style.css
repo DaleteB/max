@@ -8,7 +8,10 @@ body {
     body{
         width: 100%;
     }
-    .img-fluid{
+    .happy-birthday{
+        width: 100%;
+    }
+    .photos{
         display: block;
         text-align: center;
         width: 50%;
